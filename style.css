@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+}
+img{
+    margin-left: 37%;
+}
+.text{
+    /* display: flex;
+    flex-direction: column; */
+    margin-left: 34%;
+    font-size: 40px;
+}
